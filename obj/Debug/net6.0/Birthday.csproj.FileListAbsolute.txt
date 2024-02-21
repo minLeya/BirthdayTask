@@ -1,0 +1,15 @@
+C:\Users\Лейсан\source\repos\Birthday\bin\Debug\net6.0\Birthday.exe
+C:\Users\Лейсан\source\repos\Birthday\bin\Debug\net6.0\Birthday.deps.json
+C:\Users\Лейсан\source\repos\Birthday\bin\Debug\net6.0\Birthday.runtimeconfig.json
+C:\Users\Лейсан\source\repos\Birthday\bin\Debug\net6.0\Birthday.dll
+C:\Users\Лейсан\source\repos\Birthday\bin\Debug\net6.0\Birthday.pdb
+C:\Users\Лейсан\source\repos\Birthday\obj\Debug\net6.0\Birthday.csproj.AssemblyReference.cache
+C:\Users\Лейсан\source\repos\Birthday\obj\Debug\net6.0\Birthday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лейсан\source\repos\Birthday\obj\Debug\net6.0\Birthday.AssemblyInfoInputs.cache
+C:\Users\Лейсан\source\repos\Birthday\obj\Debug\net6.0\Birthday.AssemblyInfo.cs
+C:\Users\Лейсан\source\repos\Birthday\obj\Debug\net6.0\Birthday.csproj.CoreCompileInputs.cache
+C:\Users\Лейсан\source\repos\Birthday\obj\Debug\net6.0\Birthday.dll
+C:\Users\Лейсан\source\repos\Birthday\obj\Debug\net6.0\refint\Birthday.dll
+C:\Users\Лейсан\source\repos\Birthday\obj\Debug\net6.0\Birthday.pdb
+C:\Users\Лейсан\source\repos\Birthday\obj\Debug\net6.0\Birthday.genruntimeconfig.cache
+C:\Users\Лейсан\source\repos\Birthday\obj\Debug\net6.0\ref\Birthday.dll
